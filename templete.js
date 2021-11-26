@@ -15,11 +15,8 @@ person3.LastName = "Cook";
 person3.Office_Address = "Cupertino, California";
 
 console.log("The first person is -");
-console.log(person1.FirstName, person1.LastName);
-console.log("Address : ", person1.Office_Address);
+console.log(person1);
 console.log("\nThe second person is -");
-console.log(person2.FirstName, person2.LastName);
-console.log("Address : ", person2.Office_Address);
+console.log(person2);
 console.log("\nThe third person is -");
-console.log(person3.FirstName, person3.LastName);
-console.log("Address : ", person3.Office_Address);
+console.log(person3);
